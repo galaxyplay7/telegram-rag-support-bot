@@ -4,7 +4,7 @@ A Telegram customer support bot that answers questions **only from your own docu
 
 When the answer is in your documents, the bot replies like a real support agent: short, friendly and in the customer's language. When it isn't, the bot says so instead of guessing, and offers to connect the customer with a human.
 
-**Live demo:** [t.me/luminastore635_bot](https://t.me/luminastore635_bot) — a fictional home services company called *Lumina*. Try asking about AC cleaning prices, cancellation rules or service areas.
+The repo ships with sample documents for *Lumina*, a fictional home services company, so you can test the bot right after setup. Ask about AC cleaning prices, cancellation rules or service areas (see [docs/test-scenarios.md](docs/test-scenarios.md)).
 
 ![n8n](https://img.shields.io/badge/n8n-workflow-EA4B71) ![Gemini](https://img.shields.io/badge/Google-Gemini-4285F4) ![Supabase](https://img.shields.io/badge/Supabase-pgvector-3ECF8E) ![Telegram](https://img.shields.io/badge/Telegram-Bot-26A5E4)
 
